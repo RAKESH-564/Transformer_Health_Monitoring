@@ -2,8 +2,8 @@
 
 A Transformer Health Monitoring System using IoT is a smart solution designed to continuously track the condition of electrical transformers and provide real-time data to improve maintenance, reduce downtime, and prevent failures. Here's a comprehensive overview of how such a system works:
 
-Key Components
-Sensors
+Key Components:
+Sensors:
 
 Temperature Sensor: Monitors oil and winding temperature.
 Voltage Sensor: Measures input and output voltage levels.
