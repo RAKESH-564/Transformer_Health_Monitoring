@@ -6,12 +6,19 @@ Key Components:
 Sensors:
 
 Temperature Sensor: Monitors oil and winding temperature.
+
 Voltage Sensor: Measures input and output voltage levels.
+
 Current Sensor: Tracks current flow in the transformer.
+
 Humidity Sensor: Detects moisture levels that may affect insulation.
+
 Vibration Sensor: Identifies unusual mechanical vibrations.
+
 Gas Sensor (DGA - Dissolved Gas Analysis): Detects gas build-up in transformer oil, a sign of internal faults.
-Microcontroller/Processor
+
+
+Microcontroller/Processor:
 
 Typically an ESP32, Arduino, or Raspberry Pi that collects sensor data and processes it.
 IoT Communication Module
